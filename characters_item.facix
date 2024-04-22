@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<characters_items>
+ 	<id_character_item id="1">
+		<id_item id_value="5" />
+		<id_character id_value="3" />
+	</id_character_item>	
+ 	<id_character_item id="2">
+		<id_item id_value="3" />
+		<id_character id_value="2" />
+	</id_character_item>
+ 	<id_character_item id="3">
+		<id_item id_value="6" />
+		<id_character id_value="1" />
+	</id_character_item>
+ 	<id_character_item id="4">
+		<id_item id_value="3" />
+		<id_character id_value="1" />
+	</id_character_item>
+ 	<id_character_item id="5">
+		<id_item id_value="2" />
+		<id_character id_value="2" />
+	</id_character_item>
+ 	<id_character_item id="6">
+		<id_item id_value="6" />
+		<id_character id_value="4" />
+	</id_character_item>
+ 	<id_character_item id="7">
+		<id_item id_value="4" />
+		<id_character id_value="1" />
+	</id_character_item>
+ 	<id_character_item id="8">
+		<id_item id_value="6" />
+		<id_character id_value="3" />
+	</id_character_item>
+ 	<id_character_item id="9">
+		<id_item id_value="7" />
+		<id_character id_value="1" />
+	</id_character_item>
+ 	<id_character_item id="10">
+		<id_item id_value="3" />
+		<id_character id_value="4" />
+	</id_character_item>
+</characters_items>
